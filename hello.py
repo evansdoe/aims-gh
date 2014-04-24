@@ -9,3 +9,4 @@ CUR_DIR='/Users/evans/Desktop/aims_gh-research-project'
 ALL_FILES gl.glob("*.*")
 for f in ALL_FILES:
 	print f
+#EOF
